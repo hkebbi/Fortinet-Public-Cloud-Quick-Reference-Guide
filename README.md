@@ -2,7 +2,7 @@
 
 ## Fortinet Azure References ##
 
-A set of Azure most requested Templates for getting you started in Azure with Fortinet solutions.
+A set of Azure most requested Templates for getting you started in Fortinet Azure deployments.
 
 **FortiGate - Azure: FG-AutoScale deployment template**
 https://github.com/fortinet/fortigate-autoscale-azure
@@ -25,23 +25,26 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-s
 <br /> 
 
 ## Fortinet AWS References ##
+A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
 
 
 <br /> 
 <br /> 
 
 ## Fortinet GCP References ##
-
+A set of GCP most requested Templates for getting you started in Fortinet GCP deployments.
 
 <br /> 
 <br /> 
 
 ## Fortinet OCI References ##
+A set of OCI most requested Templates for getting you started in Fortinet OCI deployments.
 
 <br /> 
 <br /> 
 
 ## Fortinet Microservices & DevOps References ##
+A set of Container most requested Templates for getting you started in Fortinet Container & DevOps deployments.
 
 <br /> 
 <br /> 
