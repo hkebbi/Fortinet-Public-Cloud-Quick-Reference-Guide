@@ -40,8 +40,12 @@ A set of GCP most requested Templates for getting you started in Fortinet GCP de
 ## Fortinet OCI References ##
 A set of OCI most requested Templates for getting you started in Fortinet OCI deployments.
 
+**FortiGate - OCI: FG A/P  in Single AD and Dual FD.
+https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Single_AD_Dual_FD
 <br /> 
-<br /> 
+**FortiGate - OCI: FG A/P  in Dual Ad and Dual FD.
+https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-Dual_FD
+
 
 ## Fortinet Microservices & DevOps References ##
 A set of Container most requested Templates for getting you started in Fortinet Container & DevOps deployments.
