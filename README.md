@@ -8,13 +8,13 @@ A set of Azure most requested Templates for getting you started in Azure with Fo
 https://github.com/fortinet/fortigate-autoscale-azure
 
 
-# FortiGate - Azure: FG A/P + AZ (ELB & ILB) in Single or Dual-AZ:
+# FortiGate - Azure: FG A/P + Azure (ELB & ILB) in Single or Dual-AZ:
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Passive-ELB-ILB
 
-# ForiWeb - Azure: FortiWeb A/A + AZ (ELB or ILB) in Single or Dual-AZ:
+# ForiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ:
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Active
 
-Public IP New or Existing: Choose none from drop down list.
+ For Internal Load Balancer: Choose none from drop down list. (From the Public IP New or Existing) .
 
 
 
