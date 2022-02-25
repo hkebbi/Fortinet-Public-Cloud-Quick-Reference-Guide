@@ -23,6 +23,22 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-s
 
 <br /> 
 <br /> 
+
+## Fortinet AWS References ##
+
+
+<br /> 
+<br /> 
+
+## Fortinet GCP References ##
+
+
+<br /> 
+<br /> 
+
+## Fortinet OCI References ##
+
+<br /> 
 <br /> 
 <br /> 
 <br /> 
