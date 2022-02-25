@@ -44,6 +44,7 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 * https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Single_AD_Dual_FD
 <br /> 
 **FortiGate - OCI: FG A/P  in Dual AD and Dual FD**
+
 * https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-Dual_FD
 
 
