@@ -49,7 +49,7 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 ## Fortinet Microservices & DevOps References ##
 A set of Container most requested Templates for getting you started in Fortinet Container & DevOps deployments.
 
-**K8S SDN connector requirements**
+**Kubernetes K8S SDN connector requirements**
 * https://training.kubiosec.tech/labs/lab11/
 
 <br /> 
