@@ -1,6 +1,6 @@
 # Public-Cloud-Guide-Reference
 
-**fortinet-Azure-references**
+## Fortinet Azure References ##
 
 A set of Azure most requested Templates for getting you started in Azure with Fortinet solutions.
 
