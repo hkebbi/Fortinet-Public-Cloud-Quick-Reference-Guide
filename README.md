@@ -14,12 +14,12 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Acti
 **ForiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ**
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Active
 
-FWB A/A + ILB:  For Internal Load Balancer: Choose none from drop down list. (From the Public IP New or Existing) .
+* FWB A/A + ILB:  For Internal Load Balancer: Choose none from drop down list. (From the Public IP New or Existing) .
 
 
 **ForiWeb - Azure: FortiWeb AutoScale**:
 https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-scaling-on-azure/697600/deploying-autoscaling-resources-using-arm-templates
-*Main Github: https://github.com/fortinet/fortiweb-autoscale
+* Main Github: https://github.com/fortinet/fortiweb-autoscale
 
 <br /> 
 <br /> 
