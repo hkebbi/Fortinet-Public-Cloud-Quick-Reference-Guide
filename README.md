@@ -23,11 +23,11 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-s
 Main Github: https://github.com/fortinet/fortiweb-autoscale
 
 
-
-
-
-
-
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 
 **Support**
 Provided scripts in this and other GitHub projects do not fall under the regular Fortinet technical support scope and are not supported by FortiCare Support Services. For direct issues, please refer to the Issues tab of this GitHub project.
