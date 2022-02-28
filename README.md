@@ -4,12 +4,17 @@
 
 A set of Azure most requested Templates for getting you started in Fortinet Azure deployments.
 
-**FortiGate - Azure: FG-AutoScale deployment template**
-* https://github.com/fortinet/fortigate-autoscale-azure
-
 
 **FortiGate - Azure: FG A/P + Azure (ELB & ILB) in Single or Dual-AZ**
 * https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Passive-ELB-ILB
+
+**FortiGate - Azure: FG A/A + Azure (ELB & ILB) in Single or Dual-AZ**
+* https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Active-ELB-ILB
+
+
+**FortiGate - Azure: FG-AutoScale deployment template**
+* https://github.com/fortinet/fortigate-autoscale-azure
+
 
 **FortiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ**
 * https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Active
@@ -52,6 +57,8 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 
 **Note: Supports Private API call**
 
+**FortiGate - OCI: FG A/A  in Dual AD and Dual FD**
+
 **FortiWeb - OCI: FortiWeb A/A + OCI (ELB or ILB) in Single or Dual-AZ**
 
 **FortiMail - OCI: HA**:
@@ -66,9 +73,14 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 ## Fortinet AWS References ##
 A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
 
-**FortiGate - AWS: FG A/P**
+**FortiGate - AWS: FG A/P MultiZone**
+* https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/Active-Passive-Multi-Zone
+
 
 **Note: Supports Private API call**
+
+**FortiGate - AWS: FG A/A + GWLB**
+* https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/GWLB
 
 **FortiWeb - AWS: FortiWeb A/A + AWS (ELB or ILB) in Single or Dual-AZ**
 
