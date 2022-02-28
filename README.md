@@ -60,8 +60,9 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 **FortiGate - OCI: FG A/P  in Dual AD and Dual FD**
 * https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-Dual_FD
 
-**Note: Supports Private API call**
-
+```
+** Note: Supports Private API call**
+```
 **FortiGate - OCI: FG A/A  in Dual AD and Dual FD**
 
 **FortiWeb - OCI: FortiWeb A/A + OCI (ELB or ILB) in Single or Dual-AZ**
@@ -86,8 +87,9 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 **FortiGate - AWS: FG A/P MultiZone**
 * https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/Active-Passive-Multi-Zone
 
-
+```
 **Note: Supports Private API call**
+```
 
 **FortiGate - AWS: FG A/A + GWLB**
 * Deployment: https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/GWLB
@@ -117,9 +119,9 @@ A set of GCP most requested Templates for getting you started in Fortinet GCP de
 <br /> 
 <br /> 
 
-```
+
 ## Fortinet SaaS Public Cloud ##
-```
+
 
 **FortiWeb Cloud**
 * Docs Reference: https://docs.fortinet.com/product/fortiweb-cloud
