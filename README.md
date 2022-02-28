@@ -1,7 +1,9 @@
 # Public Cloud Fortinet Guide Reference:
 
-```
+
 ## Fortinet Azure References ##
+
+```
 A set of Azure most requested Templates for getting you started in Fortinet Azure deployments.
 ```
 
@@ -46,8 +48,9 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 <br /> 
 <br /> 
 
-```
+
 ## Fortinet OCI References ##
+```
 A set of OCI most requested Templates for getting you started in Fortinet OCI deployments.
 ```
 
@@ -74,8 +77,9 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 <br /> 
 <br /> 
 
-```
+
 ## Fortinet AWS References ##
+```
 A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
 ```
 
@@ -104,8 +108,9 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 <br /> 
 <br /> 
 
-```
+
 ## Fortinet GCP References ##
+```
 A set of GCP most requested Templates for getting you started in Fortinet GCP deployments.
 ```
 
@@ -133,12 +138,13 @@ A set of GCP most requested Templates for getting you started in Fortinet GCP de
 * Docs Reference: https://docs.fortinet.com/product/fortidevsec/22.1
 * Explore Live Demo: https://fortidevsec.forticloud.com/#/login
 
-```
+
 ## Fortinet Microservices & DevOps References ##
+```
 A set of Container most requested Templates for getting you started in Fortinet Container & DevOps deployments.
 ```
-
 **Kubernetes K8S SDN connector requirements**
+
 * https://training.kubiosec.tech/labs/lab11/
 
 
