@@ -80,7 +80,8 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 **Note: Supports Private API call**
 
 **FortiGate - AWS: FG A/A + GWLB**
-* https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/GWLB
+* Deployment: https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/GWLB
+* Design: https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/GWLB/6.4
 
 **FortiWeb - AWS: FortiWeb A/A + AWS (ELB or ILB) in Single or Dual-AZ**
 
