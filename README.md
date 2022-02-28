@@ -20,9 +20,6 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 * https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-scaling-on-azure/697600/deploying-autoscaling-resources-using-arm-templates
    * Main Github: https://github.com/fortinet/fortiweb-autoscale
 
-<br /> 
-<br /> 
-
 **FortiSandbox - Azure: Advanced Deployment**:
 * Supports custom Windows VMs on Azure (unknown Files stay on Azure for inspection).
 * Supports HA features.
@@ -30,6 +27,9 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 
    * https://www.youtube.com/watch?v=7VPZ84cV-jA
     * https://docs.fortinet.com/document/fortisandbox-public-cloud/4.0.0/fortisandbox-vm-on-azure/963045/deploying-fortisandbox-vm-on-azure-advanced
+
+<br /> 
+<br /> 
 
 ## Fortinet AWS References ##
 A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
