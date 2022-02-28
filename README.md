@@ -61,7 +61,7 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 ## Fortinet AWS References ##
 A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
 
-**FortiGate - AWS: FG A/P 
+**FortiGate - AWS: FG A/P**
 
 **FortiSandbox - AWS: Advanced Deployment**:
 
