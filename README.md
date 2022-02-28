@@ -1,13 +1,10 @@
 # Public Cloud Fortinet Guide Reference:
 
-```
-test
-```
 
 ## Fortinet Azure References ##
-
 A set of Azure most requested Templates for getting you started in Fortinet Azure deployments.
 
+```
 
 **FortiGate - Azure: FG A/P + Azure (ELB & ILB) in Single or Dual-AZ**
 * https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Passive-ELB-ILB
@@ -46,12 +43,15 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 
 **FortiSOAR - Azure: HA**:
 
+```
+
 <br /> 
 <br /> 
 
 ## Fortinet OCI References ##
 A set of OCI most requested Templates for getting you started in Fortinet OCI deployments.
 
+```
 
 **FortiGate - OCI: FG A/P  in Single AD and Dual FD**
 * https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Single_AD_Dual_FD
@@ -76,8 +76,12 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 <br /> 
 <br /> 
 
+```
+
 ## Fortinet AWS References ##
 A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
+
+```
 
 **FortiGate - AWS: FG A/P MultiZone**
 * https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/Active-Passive-Multi-Zone
@@ -104,13 +108,21 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 <br /> 
 <br /> 
 
+```
+
 ## Fortinet GCP References ##
 A set of GCP most requested Templates for getting you started in Fortinet GCP deployments.
 
+```
+
 <br /> 
 <br /> 
 
+```
+
 ## Fortinet SaaS Public Cloud ##
+
+```
 
 **FortiWeb Cloud**
 * Docs Reference: https://docs.fortinet.com/product/fortiweb-cloud
@@ -129,11 +141,17 @@ A set of GCP most requested Templates for getting you started in Fortinet GCP de
 * Docs Reference: https://docs.fortinet.com/product/fortidevsec/22.1
 * Explore Live Demo: https://fortidevsec.forticloud.com/#/login
 
+```
+
 ## Fortinet Microservices & DevOps References ##
 A set of Container most requested Templates for getting you started in Fortinet Container & DevOps deployments.
 
+```
+
 **Kubernetes K8S SDN connector requirements**
 * https://training.kubiosec.tech/labs/lab11/
+
+```
 
 <br /> 
 <br /> 
