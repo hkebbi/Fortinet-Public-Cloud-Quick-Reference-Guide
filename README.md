@@ -1,5 +1,10 @@
 # Public Cloud Fortinet Guide Reference:
 
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
+         
 ## Fortinet Azure References ##
 
 A set of Azure most requested Templates for getting you started in Fortinet Azure deployments.
