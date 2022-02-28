@@ -39,6 +39,18 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 <br /> 
 <br /> 
 
+## Fortinet OCI References ##
+A set of OCI most requested Templates for getting you started in Fortinet OCI deployments.
+
+**FortiGate - OCI: FG A/P  in Single AD and Dual FD**
+* https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Single_AD_Dual_FD
+
+**FortiGate - OCI: FG A/P  in Dual AD and Dual FD**
+* https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-Dual_FD
+
+<br /> 
+<br /> 
+
 ## Fortinet AWS References ##
 A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
 
@@ -48,18 +60,6 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 
 ## Fortinet GCP References ##
 A set of GCP most requested Templates for getting you started in Fortinet GCP deployments.
-
-<br /> 
-<br /> 
-
-## Fortinet OCI References ##
-A set of OCI most requested Templates for getting you started in Fortinet OCI deployments.
-
-**FortiGate - OCI: FG A/P  in Single AD and Dual FD**
-* https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Single_AD_Dual_FD
-
-**FortiGate - OCI: FG A/P  in Dual AD and Dual FD**
-* https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-Dual_FD
 
 <br /> 
 <br /> 
