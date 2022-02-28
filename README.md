@@ -11,12 +11,12 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 **FortiGate - Azure: FG A/P + Azure (ELB & ILB) in Single or Dual-AZ**
 * https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Passive-ELB-ILB
 
-**ForiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ**
+**FortiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ**
 * https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Active
     * FWB A/A + ILB:  For Internal Load Balancer: Choose none from drop down list. (From the Public IP New or Existing) .
 
 
-**ForiWeb - Azure: FortiWeb AutoScale**:
+**FortiWeb - Azure: FortiWeb AutoScale**:
 * https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-scaling-on-azure/697600/deploying-autoscaling-resources-using-arm-templates
    * Main Github: https://github.com/fortinet/fortiweb-autoscale
 
