@@ -113,7 +113,7 @@ A set of GCP most requested Templates for getting you started in Fortinet GCP de
 **FortiGSLB**
 * Docs Reference: https://docs.fortinet.com/product/fortiadc-cloud
 
-**FortiCWP**
+**FortiCWP & FortiCWP Container Protection**
 * Docs Reference: https://docs.fortinet.com/product/forticwp/22.1
 
 **FortiMonitor**
