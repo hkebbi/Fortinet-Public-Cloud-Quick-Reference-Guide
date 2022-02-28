@@ -95,9 +95,14 @@ A set of GCP most requested Templates for getting you started in Fortinet GCP de
 
 **FortiWeb Cloud**
 
+**FortiGSLB**
+
 **FortiCWP**
 
 **FortiMonitor**
+
+**FortiDevSec**
+
 
 ## Fortinet Microservices & DevOps References ##
 A set of Container most requested Templates for getting you started in Fortinet Container & DevOps deployments.
