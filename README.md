@@ -28,6 +28,14 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
    * https://www.youtube.com/watch?v=7VPZ84cV-jA
     * https://docs.fortinet.com/document/fortisandbox-public-cloud/4.0.0/fortisandbox-vm-on-azure/963045/deploying-fortisandbox-vm-on-azure-advanced
 
+
+**FortiMail - Azure: HA**:
+
+**FortiAnalyzer - Azure: HA**:
+
+**FortiManager - Azure: HA**:
+
+
 <br /> 
 <br /> 
 
@@ -53,6 +61,16 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 **FortiGate - OCI: FG A/P  in Dual AD and Dual FD**
 * https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-Dual_FD
 
+<br /> 
+<br /> 
+
+## Fortinet SaaS Public Cloud ##
+
+**FortiWeb Cloud**
+
+**FortiCWP**
+
+**FortiMonitor**
 
 ## Fortinet Microservices & DevOps References ##
 A set of Container most requested Templates for getting you started in Fortinet Container & DevOps deployments.
