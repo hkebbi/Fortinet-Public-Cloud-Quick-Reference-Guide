@@ -94,15 +94,21 @@ A set of GCP most requested Templates for getting you started in Fortinet GCP de
 ## Fortinet SaaS Public Cloud ##
 
 **FortiWeb Cloud**
+* Docs Reference: https://docs.fortinet.com/product/fortiweb-cloud
+* Explore Live Demo: https://www.fortiweb-cloud.com/index/login
 
 **FortiGSLB**
+* Docs Reference: https://docs.fortinet.com/product/fortiadc-cloud
 
 **FortiCWP**
+* Docs Reference: https://docs.fortinet.com/product/forticwp/22.1
 
 **FortiMonitor**
+* Docs Reference: https://docs.fortinet.com/product/fortimonitor/22.1
 
 **FortiDevSec**
-
+* Docs Reference: https://docs.fortinet.com/product/fortidevsec/22.1
+* Explore Live Demo: https://fortidevsec.forticloud.com/#/login
 
 ## Fortinet Microservices & DevOps References ##
 A set of Container most requested Templates for getting you started in Fortinet Container & DevOps deployments.
