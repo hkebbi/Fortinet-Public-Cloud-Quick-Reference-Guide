@@ -49,6 +49,8 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 **FortiGate - OCI: FG A/P  in Dual AD and Dual FD**
 * https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-Dual_FD
 
+**FortiWeb - OCI: FortiWeb A/A + OCI (ELB or ILB) in Single or Dual-AZ**
+
 **FortiMail - OCI: HA**:
 
 **FortiAnalyzer - OCI: HA**:
@@ -62,6 +64,8 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
 
 **FortiGate - AWS: FG A/P**
+
+**FortiWeb - AWS: FortiWeb A/A + AWS (ELB or ILB) in Single or Dual-AZ**
 
 **FortiSandbox - AWS: Advanced Deployment**:
 
