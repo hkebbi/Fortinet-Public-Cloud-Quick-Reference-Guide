@@ -43,8 +43,6 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 
 **FortiSOAR - Azure: HA**:
 
-```
-
 <br /> 
 <br /> 
 
