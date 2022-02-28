@@ -62,6 +62,8 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 **FortiWeb - OCI: FortiWeb A/A + OCI (ELB or ILB) in Single or Dual-AZ**
 
 **FortiMail - OCI: HA**:
+* FortiMail Deployment: https://docs.fortinet.com/document/fortimail/7.0.0/oci-deployment-guide
+* FortiMail HA Deplopyment: https://docs.fortinet.com/document/fortimail/7.0.0/fortimail-ha-on-oci-deployment-guide
 
 **FortiAnalyzer - OCI: HA**:
 
