@@ -93,6 +93,9 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 ```
 A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
 ```
+**AWS Maximum Interfaces & IP addresses per instance Shape**
+* https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html#AvailableIpPerENI
+
 
 **FortiGate - AWS: FG A/P MultiZone**
 * https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/Active-Passive-Multi-Zone
