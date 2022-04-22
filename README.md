@@ -1,4 +1,4 @@
-# Public Cloud Fortinet Guide Reference:
+# Public Cloud Fortinet Deployment Guide Reference:
 
 
 ## Fortinet Azure References ##
