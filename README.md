@@ -31,7 +31,12 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Acti
 
 **FortiSandbox - Azure: Advanced Deployment**:
 
-* Deployment: https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/Advanced%20Deployment (mainTemplate.json)
+* Deployment: (mainTemplate.json)
+
+```
+https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/Advanced%20Deployment
+```
+
 * default login: admin / az vm list --output tsv -g resource-group (Azure PowerShell)
 * You can deploy up tp 8 FSA-VM in an Advanced Standalone Mode. 
 
