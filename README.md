@@ -38,7 +38,7 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/A
 ```
 
 * default login: admin / az vm list --output tsv -g resource-group (Azure PowerShell)
-* You can deploy up tp 8 FSA-VM in an Advanced Standalone Mode. 
+* From Github Template you can choose up tp 8 *FSA-VM in an Advanced Standalone Mode at one time. (AS or AZ).
 
 ```
 * Supports custom Windows VMs on Azure (unknown Files stay on Azure for inspection).
