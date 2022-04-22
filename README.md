@@ -7,7 +7,6 @@
 A set of Azure most requested Templates for getting you started in Fortinet Azure deployments.
 ```
 
-
 **FortiGate - Azure: FG A/P + Azure (ELB & ILB) in Single or Dual-AZ**
 * https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Passive-ELB-ILB
 
@@ -23,7 +22,6 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 * https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Active
     * FWB A/A + ILB:  For Internal Load Balancer: Choose none from drop down list. (From the Public IP New or Existing) .
 
-
 **FortiWeb - Azure: FortiWeb AutoScale**:
 * https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-scaling-on-azure/697600/deploying-autoscaling-resources-using-arm-templates
    * Main Github: https://github.com/fortinet/fortiweb-autoscale
@@ -32,6 +30,7 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 
 * Deployment: https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/Advanced%20Deployment
 * default login: admin / az vm list --output tsv -g resource-group
+* You can deploy up tp 8 FSA-VM in an Advanced Standalone Mode. 
 
 ```
 * Supports custom Windows VMs on Azure (unknown Files stay on Azure for inspection).
@@ -39,8 +38,9 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 * Gives you full control to customize the resources required to deploy the VM.
 * You can use PreBuilt Custom VMs ( Windows and Linux).
 ```
+Guide:
  * https://docs.fortinet.com/document/fortisandbox-public-cloud/4.0.0/fortisandbox-vm-on-azure/963045/deploying-fortisandbox-vm-on-azure-advanced
-     * https://www.youtube.com/watch?v=7VPZ84cV-jA
+ * https://www.youtube.com/watch?v=7VPZ84cV-jA
 
 **FortiMail - Azure: HA**:
 
