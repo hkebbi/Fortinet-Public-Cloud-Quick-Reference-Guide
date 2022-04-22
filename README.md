@@ -24,12 +24,12 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 
 **FortiWeb - Azure: FortiWeb AutoScale**:
 * https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-scaling-on-azure/697600/deploying-autoscaling-resources-using-arm-templates
-   * Main Github: https://github.com/fortinet/fortiweb-autoscale
+* Main Github: https://github.com/fortinet/fortiweb-autoscale
 
 **FortiSandbox - Azure: Advanced Deployment**:
 
-* Deployment: https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/Advanced%20Deployment
-* default login: admin / az vm list --output tsv -g resource-group
+* Deployment: https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/Advanced%20Deployment (mainTemplate.json)
+* default login: admin / az vm list --output tsv -g resource-group (Azure PowerShell)
 * You can deploy up tp 8 FSA-VM in an Advanced Standalone Mode. 
 
 ```
