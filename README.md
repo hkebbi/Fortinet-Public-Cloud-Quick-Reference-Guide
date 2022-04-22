@@ -30,6 +30,9 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 
 **FortiSandbox - Azure: Advanced Deployment**:
 
+* Deployment: https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/Advanced%20Deployment
+* default login: admin / az vm list --output tsv -g resource-group
+
 ```
 * Supports custom Windows VMs on Azure (unknown Files stay on Azure for inspection).
 * Supports HA features.
@@ -108,7 +111,10 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 * Deployment: https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/GWLB
 * Design: https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/GWLB/6.4
 
-**FortiWeb - AWS: FortiWeb A/A + AWS (ELB or ILB) in Single or Dual-AZ**
+**FortiWeb - AWS: FortiWeb A/P & FortiWeb A/A + AWS (ELB or ILB) in Single or Dual-AZ**
+* Guide: https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/attachments/f6e3aa24-f317-11e8-b86b-00505692583a/Use_Case_-_High_Availability_for_FortiWeb_on_AWS.pdf
+
+* Deployment: https://github.com/fortinet/fortiweb-ha/tree/main/aws
 
 **FortiSandbox - AWS: Advanced Deployment**:
 
