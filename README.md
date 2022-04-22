@@ -8,7 +8,7 @@ A set of Azure most requested Templates for getting you started in Fortinet Azur
 ```
 
 **FortiGate - Azure: FG A/P + Azure (ELB & ILB) in Single or Dual-AZ**
-* https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Passive-ELB-ILB
+* ```https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Passive-ELB-ILB```
 
 **FortiGate - Azure: FG A/A + Azure (ELB & ILB) in Single or Dual-AZ**
 * https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Active-ELB-ILB
