@@ -25,16 +25,16 @@ https://github.com/fortinet/fortigate-autoscale-azure
 ```
 
 **FortiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ**
-* Mode: FWB A/A: High volume active-active HA group Supports up to 8 * FWB in A/A for full config sync.
 
+* Mode: FWB A/A: High volume active-active HA group Supports up to 8 * FWB in A/A for full config sync.
 ```
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Active
 
 ```
 * Template: FWB A/A + ILB:  For Internal Load Balancer: Choose none from drop down list. (From the Public IP New or Existing) .
 
-**FortiWeb - Azure: FortiWeb AutoScale**:
 
+**FortiWeb - Azure: FortiWeb AutoScale**:
 ```
 https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-scaling-on-azure/697600/deploying-autoscaling-resources-using-arm-templates
 ```
@@ -43,6 +43,7 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-s
 ```
 https://github.com/fortinet/fortiweb-autoscale
 ```
+
 
 **FortiSandbox - Azure: Advanced Deployment**:
 
@@ -66,10 +67,10 @@ Guide:
 ```
  https://docs.fortinet.com/document/fortisandbox-public-cloud/4.0.0/fortisandbox-vm-on-azure/963045/deploying-fortisandbox-vm-on-azure-advanced
 ```
-
 ``` 
 https://www.youtube.com/watch?v=7VPZ84cV-jA
 ```
+
 
 **FortiMail - Azure: HA**:
 
