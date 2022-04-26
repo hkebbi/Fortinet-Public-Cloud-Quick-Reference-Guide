@@ -109,8 +109,10 @@ https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-D
 ```
 https://docs.fortinet.com/document/fortimail/7.0.0/oci-deployment-guide
 ```
+
+*FortiMail HA FML A/P Deplopyment: 
 ```
-FortiMail HA FML A/P Deplopyment: https://docs.fortinet.com/document/fortimail/7.0.0/fortimail-ha-on-oci-deployment-guide
+https://docs.fortinet.com/document/fortimail/7.0.0/fortimail-ha-on-oci-deployment-guide
 ```
 
 ```
