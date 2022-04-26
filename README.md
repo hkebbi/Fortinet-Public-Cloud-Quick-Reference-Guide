@@ -27,9 +27,9 @@ https://github.com/fortinet/fortigate-autoscale-azure
 **FortiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ**
 
 * Mode: FWB A/A: High volume active-active HA group Supports up to 8 * FWB in A/A for full config sync.
+
 ```
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Active
-
 ```
 * Template: FWB A/A + ILB:  For Internal Load Balancer: Choose none from drop down list. (From the Public IP New or Existing) .
 
@@ -110,7 +110,7 @@ https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-D
 https://docs.fortinet.com/document/fortimail/7.0.0/oci-deployment-guide
 ```
 
-*FortiMail HA FML A/P Deplopyment: 
+* FortiMail HA FML A/P Deplopyment: 
 ```
 https://docs.fortinet.com/document/fortimail/7.0.0/fortimail-ha-on-oci-deployment-guide
 ```
