@@ -3,9 +3,9 @@
 
 ## Fortinet Azure References ##
 
-```
+
 A set of Azure most requested Templates for getting you started in Fortinet Azure deployments.
-```
+
 
 **FortiGate - Azure: FG A/P + Azure (ELB & ILB) in Single or Dual-AZ**
 * 
