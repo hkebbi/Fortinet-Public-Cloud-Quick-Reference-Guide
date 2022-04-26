@@ -132,8 +132,6 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 
 **FortiManager - AWS: HA**:
 
-**FortiSOAR - AWS: HA**:
-
 <br /> 
 <br /> 
 
