@@ -65,7 +65,7 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/A
 Guide:
 
 ```
- https://docs.fortinet.com/document/fortisandbox-public-cloud/4.0.0/fortisandbox-vm-on-azure/963045/deploying-fortisandbox-vm-on-azure-advanced
+https://docs.fortinet.com/document/fortisandbox-public-cloud/4.0.0/fortisandbox-vm-on-azure/963045/deploying-fortisandbox-vm-on-azure-advanced
 ```
 ``` 
 https://www.youtube.com/watch?v=7VPZ84cV-jA
