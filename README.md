@@ -83,15 +83,18 @@ https://www.youtube.com/watch?v=7VPZ84cV-jA
 
 
 ## Fortinet OCI References ##
-```
+
 A set of OCI most requested Templates for getting you started in Fortinet OCI deployments.
-```
 
 **FortiGate - OCI: FG A/P  in Single AD and Dual FD**
-* https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Single_AD_Dual_FD
+```
+https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Single_AD_Dual_FD
+```
 
 **FortiGate - OCI: FG A/P  in Dual AD and Dual FD**
-* https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-Dual_FD
+```
+https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-Dual_FD
+```
 
 ```
 ** Note: Supports Private API call**
@@ -102,8 +105,13 @@ A set of OCI most requested Templates for getting you started in Fortinet OCI de
 
 **FortiMail - OCI: HA**:
 
-* FortiMail Deployment: https://docs.fortinet.com/document/fortimail/7.0.0/oci-deployment-guide
-* FortiMail HA FML A/P Deplopyment: https://docs.fortinet.com/document/fortimail/7.0.0/fortimail-ha-on-oci-deployment-guide
+* FortiMail Deployment: 
+```
+https://docs.fortinet.com/document/fortimail/7.0.0/oci-deployment-guide
+```
+```
+FortiMail HA FML A/P Deplopyment: https://docs.fortinet.com/document/fortimail/7.0.0/fortimail-ha-on-oci-deployment-guide
+```
 
 ```
 ** Note: FML A/P (Primary / Secondary)
