@@ -25,6 +25,7 @@ https://github.com/fortinet/fortigate-autoscale-azure
 ```
 
 **FortiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ**
+
 ```
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Active
 ```
