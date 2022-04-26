@@ -31,7 +31,7 @@ https://github.com/fortinet/fortigate-autoscale-azure
 ```
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Active
 ```
-* Template: FWB A/A + ILB:  For Internal Load Balancer: Choose none from drop down list. (From the Public IP New or Existing) .
+* Template Guide: FWB A/A + ILB:  For Internal Load Balancer: Choose none from drop down list. (From the Public IP New or Existing) .
 
 
 **FortiWeb - Azure: FortiWeb AutoScale**:
