@@ -66,8 +66,6 @@ Guide:
 
 **FortiManager - Azure: HA**:
 
-**FortiSOAR - Azure: HA**:
-
 <br /> 
 <br /> 
 
