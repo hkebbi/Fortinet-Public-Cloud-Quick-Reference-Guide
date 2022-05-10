@@ -8,7 +8,7 @@
 A set of Azure most requested Templates for getting you started in Fortinet Azure deployments.
 
 
-**FortiGate SAML Azure AD SSL VPN**
+**Azure Active Directory single sign-on (SSO) integration with FortiGate SSL VPN**
 * 
 ```
 https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/fortigate-ssl-vpn-tutorial
