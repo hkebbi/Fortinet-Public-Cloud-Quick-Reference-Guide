@@ -8,6 +8,12 @@
 A set of Azure most requested Templates for getting you started in Fortinet Azure deployments.
 
 
+**FortiGate SAML Azure AD SSL VPN**
+* 
+```
+https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/fortigate-ssl-vpn-tutorial
+```
+
 **FortiGate - Azure: FG A/P + Azure (ELB & ILB) in Single or Dual-AZ**
 * 
 ```
