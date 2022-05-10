@@ -1,6 +1,5 @@
 # Public Cloud Fortinet Deployment Guide Reference:
 
-([configuring VPC peering](https://cloud.google.com/vpc/docs/vpc-peering))
 
 ## Fortinet Azure References ##
 
