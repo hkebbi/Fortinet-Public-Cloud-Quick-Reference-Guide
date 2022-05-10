@@ -177,7 +177,7 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 A set of GCP most requested Templates for getting you started in Fortinet GCP deployments.
 ```
 
-**FortiGate HA - Egress Inspection /w custom-route using network-tag in GCP Per VM **
+**FortiGate HA - Egress Inspection /w custom-route using network-tag in GCP Per VM**
 * 
 ```
 https://github.com/ozanoguz/gcp-customroute_by_nwtag
