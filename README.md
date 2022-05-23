@@ -56,7 +56,7 @@ https://github.com/fortinet/fortiweb-autoscale
 * Deployment: (mainTemplate.json)
 
 ```
-https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/Advanced%20Deployment
+https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiSandbox/Advanced-Deployment
 ```
 
 * default login: admin / az vm list --output tsv -g resource-group (Azure PowerShell)
