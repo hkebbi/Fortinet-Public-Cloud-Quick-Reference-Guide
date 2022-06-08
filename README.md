@@ -222,6 +222,7 @@ A set of Container most requested Templates for getting you started in Fortinet 
 **Kubernetes K8S SDN connector requirements**
 
 * https://training.kubiosec.tech/labs/lab11/
+* https://github.com/ozanoguz/fgt-sdn-connector-eks-egress
 
 
 
