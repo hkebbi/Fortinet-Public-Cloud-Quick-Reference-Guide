@@ -200,13 +200,13 @@ https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/attachments/fef568b6-c
 
 **FortiProxy - GCP Deployment Guide**
 
-*FPX-Manual Deployment:
+FPX-Manual Deployment :
 ```
 https://docs.fortinet.com/product/fortiproxy-public-cloud/7.0
 ```
 
+FPX-Template:
 ```
-*FPX-Template:
 https://github.com/40net-cloud/fortinet-gcp-solutions/tree/master/FortiProxy/dm
 ```
 
