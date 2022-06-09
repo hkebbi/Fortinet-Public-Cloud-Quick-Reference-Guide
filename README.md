@@ -91,6 +91,8 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiAnalyzer/
 ``` 
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiManager/single-1nic
 ``` 
+** Note: You need to fill exact Vnet-name, CIDR and FMG pre-created subnet for existing Vnet **
+
 
 <br /> 
 <br /> 
