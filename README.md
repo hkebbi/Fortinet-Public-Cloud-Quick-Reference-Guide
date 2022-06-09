@@ -190,6 +190,12 @@ https://github.com/40net-cloud/fortinet-gcp-solutions/tree/master/FortiGate/arch
 ```
 
 
+**FortiMail -  FortiMail GCP Deployment Guide**
+
+```
+https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/attachments/fef568b6-c551-11eb-97f7-00505692583a/FortiMail_GCP_Deployment_Guide.pdf
+```
+
 <br /> 
 <br /> 
 
