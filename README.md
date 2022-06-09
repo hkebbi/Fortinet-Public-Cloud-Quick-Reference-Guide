@@ -82,6 +82,10 @@ https://www.youtube.com/watch?v=7VPZ84cV-jA
 
 **FortiAnalyzer - Azure: HA**:
 
+``` 
+https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiAnalyzer/single-1nic
+``` 
+
 **FortiManager - Azure: HA**:
 
 <br /> 
