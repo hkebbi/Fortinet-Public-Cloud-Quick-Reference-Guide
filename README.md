@@ -173,8 +173,10 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 
 
 ## Fortinet GCP References ##
+
 ```
 A set of GCP most requested Templates for getting you started in Fortinet GCP deployments.
+ * Solutions Includes: FG, FML, FPX, FWB, FWBVaaS, FAZ & FMG
 ```
 
 **FortiGate HA - Egress Inspection /w custom-route using network-tag in GCP Per VM**
@@ -196,9 +198,16 @@ https://github.com/40net-cloud/fortinet-gcp-solutions/tree/master/FortiGate/arch
 https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/attachments/fef568b6-c551-11eb-97f7-00505692583a/FortiMail_GCP_Deployment_Guide.pdf
 ```
 
-**FortiProxy - GCP Manual Deployment Guide**
+**FortiProxy - GCP Deployment Guide**
+
+*FPX-Manual Deployment:
 ```
 https://docs.fortinet.com/product/fortiproxy-public-cloud/7.0
+```
+
+```
+*FPX-Template:
+https://github.com/40net-cloud/fortinet-gcp-solutions/tree/master/FortiProxy/dm
 ```
 
 <br /> 
