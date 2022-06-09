@@ -80,13 +80,17 @@ https://www.youtube.com/watch?v=7VPZ84cV-jA
 
 **FortiMail - Azure: HA**:
 
-**FortiAnalyzer - Azure: HA**:
+**FortiAnalyzer - Azure:**:
 
 ``` 
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiAnalyzer/single-1nic
 ``` 
 
-**FortiManager - Azure: HA**:
+**FortiManager - Azure:**:
+
+``` 
+https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiManager/single-1nic
+``` 
 
 <br /> 
 <br /> 
