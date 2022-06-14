@@ -200,6 +200,15 @@ https://github.com/ozanoguz/gcp-customroute_by_nwtag
 ```
 https://github.com/40net-cloud/fortinet-gcp-solutions/tree/master/FortiGate/architectures/200-ha-active-passive-lb-sandwich
 ```
+**FortiWeb - GCP: PAYG**
+```
+https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-fortiweb-from-google-cloud-compute-engine/400683/obtaining-the-deployment-image
+```
+
+**FortiWeb - GCP: BYOL**
+```
+https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-fortiweb-from-google-cloud-marketplace/195813/initial-deployment
+```
 
 
 **FortiMail - GCP Manual Deployment Guide**
@@ -226,7 +235,6 @@ https://github.com/40net-cloud/fortinet-gcp-solutions/tree/master/FortiProxy/dm
 
 ## Fortinet SaaS Public Cloud ##
 
-
 **FortiWeb Cloud**
 * Docs Reference: https://docs.fortinet.com/product/fortiweb-cloud
 * Explore Live Demo: https://www.fortiweb-cloud.com/index/login
@@ -234,7 +242,7 @@ https://github.com/40net-cloud/fortinet-gcp-solutions/tree/master/FortiProxy/dm
 **FortiGSLB**
 * Docs Reference: https://docs.fortinet.com/product/fortiadc-cloud
 
-**FortiCWP & FortiCWP Container Protection**
+**FortiCNP & FortiCNP Container Protection**
 * Docs Reference: https://docs.fortinet.com/product/forticwp/22.1
 
 **FortiMonitor**
