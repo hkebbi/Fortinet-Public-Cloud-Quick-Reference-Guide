@@ -259,9 +259,15 @@ A set of Container most requested Templates for getting you started in Fortinet 
 ```
 **Kubernetes K8S SDN connector requirements**
 
+FortiADC Ingress :
+```
+https://docs.fortinet.com/product/fortiproxy-public-cloud/7.0
+```
 * https://training.kubiosec.tech/labs/lab11/
 * https://github.com/ozanoguz/fgt-sdn-connector-eks-egress
 * https://github.com/xxradar/app_routable_demo
+
+
 
 
 
