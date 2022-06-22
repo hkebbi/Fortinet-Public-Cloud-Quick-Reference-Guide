@@ -261,7 +261,7 @@ A set of Container most requested Templates for getting you started in Fortinet 
 
 FortiADC Ingress :
 ```
-https://docs.fortinet.com/product/fortiproxy-public-cloud/7.0
+https://github.com/fortinet/fortiadc-ingress
 ```
 * https://training.kubiosec.tech/labs/lab11/
 * https://github.com/ozanoguz/fgt-sdn-connector-eks-egress
