@@ -201,7 +201,7 @@ https://github.com/ozanoguz/gcp-customroute_by_nwtag
  https://github.com/40net-cloud/fortinet-gcp-solutions/tree/master/FortiGate/architectures/200-ha-active-passive-lb-sandwich
 ```
 
-**FortiGate A.P - GCP + VPC PEering + Projects: Complete Deployment Environment Template**
+**FortiGate A.P - GCP + VPC Peering + Projects: Complete Deployment Environment Template**
 ```
 https://github.com/bartekmo/fgt-tutorial-tmp/tree/master/deployment-manager
 ```
