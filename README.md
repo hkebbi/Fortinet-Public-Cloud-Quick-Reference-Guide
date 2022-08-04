@@ -189,6 +189,8 @@ A set of GCP most requested Templates for getting you started in Fortinet GCP de
  * Solutions Includes: FG, FML, FPX, FWB, FWBVaaS, FAZ & FMG
 ```
 
+Terraform: https://github.com/fortinet/fortigate-tutorial-gcp
+
 **FortiGate HA - Egress Inspection /w custom-route using network-tag in GCP Per VM**
 
 ```
