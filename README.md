@@ -1,5 +1,7 @@
 # Public Cloud Fortinet Deployment Guide Reference:
 
+ADC:
+https://docs.fortinet.com/product/fortiadc-public-cloud
 
 ## Fortinet Azure References ##
 
