@@ -43,10 +43,11 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Activ
 
 
 **FortiWeb - Azure: FortiWeb AutoScale**:
-```
-https://github.com/fortinet/fortiweb-autoscale/releases/tag/1.0.10
 
 ```
+https://github.com/fortinet/fortiweb-autoscale/releases/tag/1.0.10
+```
+
 * Main Github: 
 ```
 https://github.com/fortinet/fortiweb-autoscale
@@ -56,6 +57,8 @@ https://github.com/fortinet/fortiweb-autoscale
 
 ```
 https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-scaling-on-azure/697600/deploying-autoscaling-resources-using-arm-templates
+
+https://docs.fortinet.com/document/fortiweb-public-cloud/6.4.0/deploying-auto-scaling-on-azure/697600/deploying-autoscaling-resources-using-arm-templates
 ```
 
 **FortiSandbox - Azure: Advanced Deployment**:
