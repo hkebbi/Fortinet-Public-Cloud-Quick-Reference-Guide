@@ -67,7 +67,7 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/6.4.0/deploying-auto-sc
 Worker Nodes:
 https://docs.fortinet.com/document/fortisandbox-private-cloud/4.2.0/vmware-esxi-vm-install-guide/328669/minimum-system-requirements
 
-Primary/Seconday:
+* Primary/Seconday: Recommended Instance Shape: In general for up to 6 workers: 8 vCPU/ 16GB Virtual RAM / 500GB Virtual Storage.
 https://docs.fortinet.com/document/fortisandbox/4.2.0/best-practices/330135/setting-up-a-fortisandbox-vm00-as-primary-node-for-high-availability
 
 
