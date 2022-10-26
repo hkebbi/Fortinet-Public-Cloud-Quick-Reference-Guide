@@ -32,6 +32,29 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Acti
 https://github.com/fortinet/fortigate-autoscale-azure
 ```
 
+**Fortinet - Azure Stack useful links**
+
+```
+https://learn.microsoft.com/en-us/azure-stack/user/azure-stack-network-differences?view=azs-2206
+```
+```
+https://learn.microsoft.com/en-us/azure-stack/operator/azure-stack-marketplace-azure-items?view=azs-2206
+```
+```
+https://learn.microsoft.com/en-us/azure-stack/operator/azure-stack-network-solutions-enable?view=azs-2206
+```
+```
+https://docs.fortinet.com/document/fortigate-public-cloud/7.2.0/azure-administration-guide/419755/sdn-connector-in-azure-stack
+```
+```
+https://docs.fortinet.com/document/fortiweb-public-cloud/6.4.0/deploying-fortiweb-vm-on-azure-stack/505675/obtaining-the-deployment-image
+```
+
+**FortiGate - Azure Stack deployment**
+```
+
+```
+
 **FortiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ**
 
 * Mode: FWB A/A: High volume active-active HA group Supports up to 8 * FWB in A/A for full config sync.
