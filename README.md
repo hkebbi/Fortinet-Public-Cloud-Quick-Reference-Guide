@@ -51,9 +51,11 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/6.4.0/deploying-fortiwe
 ```
 
 **FortiGate - Azure Stack deployment**
+* You can deploy to ASDK or use: Azure deploy.json —> Raw (copy)
+```
+https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/AzureStackHub/Active-Passive-SDN
 ```
 
-```
 
 **FortiWeb - Azure: FortiWeb A/A + Azure (ELB or ILB) in Single or Dual-AZ**
 
