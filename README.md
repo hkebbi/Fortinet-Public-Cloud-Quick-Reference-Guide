@@ -86,6 +86,15 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-auto-s
 https://docs.fortinet.com/document/fortiweb-public-cloud/6.4.0/deploying-auto-scaling-on-azure/697600/deploying-autoscaling-resources-using-arm-templates
 ```
 
+**FortiWeb - Azure: FortiWeb A.P**:
+
+```
+https://github.com/fortinet/fortiweb-ha
+```
+``
+https://github.com/fortinet/fortiweb-ha/blob/main/azure/templates/deploy_fwb_ha.json
+``
+
 **FortiSandbox - Azure: Advanced Deployment**:
 
 * Recommended Instance Shape: In general for BYOL 8 clones: 8 vCPU/ 16GB Virtual RAM / 500GB Virtual Storage.
