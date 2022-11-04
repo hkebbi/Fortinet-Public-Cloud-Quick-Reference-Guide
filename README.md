@@ -89,6 +89,10 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/6.4.0/deploying-auto-sc
 **FortiWeb - Azure: FortiWeb A.P**:
 
 ```
+https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiWeb/Active-Passive
+```
+
+```
 https://github.com/fortinet/fortiweb-ha
 ```
 ``
