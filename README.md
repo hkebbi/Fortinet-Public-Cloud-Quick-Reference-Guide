@@ -94,6 +94,8 @@ https://github.com/fortinet/fortiweb-ha
 ``
 https://github.com/fortinet/fortiweb-ha/blob/main/azure/templates/deploy_fwb_ha.json
 ``
+* if no license uploaded during FWB BYOL template, it will not be able to deploy A.P (it will stay Standlaone, A.P requires Licensed FWB). 
+
 
 **FortiSandbox - Azure: Advanced Deployment**:
 
