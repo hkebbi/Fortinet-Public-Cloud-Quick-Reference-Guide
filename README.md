@@ -88,8 +88,11 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/6.4.0/deploying-auto-sc
 
 **FortiWeb - Azure: FortiWeb A.P**:
 
+* Note
+Backend Pool will be one FWB and during failover automatically backened on ELB will change to the active FortiWeb. 
 
-*Guide:
+
+* Guide:
 
 ```
 https://docs.fortinet.com/document/fortiweb-public-cloud/latest/use-case-high-availability-for-fortiweb-on-azure/277766/overview
@@ -98,7 +101,7 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/latest/use-case-high-av
 https://docs.fortinet.com/document/fortiweb/7.0.1/administration-guide/435480/synchronization
 ```
 
-*Deployment:
+* Deployment:
 
 ```
 https://github.com/fortinet/fortiweb-ha
@@ -109,7 +112,9 @@ https://github.com/fortinet/fortiweb-ha/blob/main/azure/templates/deploy_fwb_ha.
 ```
 * Copy Raw code to Azure Template and then deploy it.
 * if no license uploaded during FWB BYOL template, it will not be able to deploy A.P (it will stay Standlaone, A.P requires Licensed FWB). 
-* Value ID = Client Secret
+* SDN for Failover requires (App Registration under Azure AD and IAM role under Subsc for that App). 
+      * Value ID = Client Secret in the APP Registration for the Service Principal.
+      * Service Principal for the App-VM will require IAM Role with Contributor.
 
 
 **FortiSandbox - Azure: Advanced Deployment**:
