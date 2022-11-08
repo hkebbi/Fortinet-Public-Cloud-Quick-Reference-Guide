@@ -99,12 +99,14 @@ https://docs.fortinet.com/document/fortiweb/7.0.1/administration-guide/435480/sy
 ```
 
 *Deployment:
+
 ```
 https://github.com/fortinet/fortiweb-ha
 ```
+
 ```
 https://github.com/fortinet/fortiweb-ha/blob/main/azure/templates/deploy_fwb_ha.json
-``
+```
 * Copy Raw code to Azure Template and then deploy it.
 * if no license uploaded during FWB BYOL template, it will not be able to deploy A.P (it will stay Standlaone, A.P requires Licensed FWB). 
 * Value ID = Client Secret
