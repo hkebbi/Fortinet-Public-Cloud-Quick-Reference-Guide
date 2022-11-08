@@ -88,14 +88,26 @@ https://docs.fortinet.com/document/fortiweb-public-cloud/6.4.0/deploying-auto-sc
 
 **FortiWeb - Azure: FortiWeb A.P**:
 
+
+*Guide:
+
+```
+https://docs.fortinet.com/document/fortiweb-public-cloud/latest/use-case-high-availability-for-fortiweb-on-azure/277766/overview
+```
+```
+https://docs.fortinet.com/document/fortiweb/7.0.1/administration-guide/435480/synchronization
+```
+
+*Deployment:
 ```
 https://github.com/fortinet/fortiweb-ha
 ```
-``
+```
 https://github.com/fortinet/fortiweb-ha/blob/main/azure/templates/deploy_fwb_ha.json
 ``
 * Copy Raw code to Azure Template and then deploy it.
 * if no license uploaded during FWB BYOL template, it will not be able to deploy A.P (it will stay Standlaone, A.P requires Licensed FWB). 
+* Value ID = Client Secret
 
 
 **FortiSandbox - Azure: Advanced Deployment**:
