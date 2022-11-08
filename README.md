@@ -27,6 +27,13 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Acti
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Active-ELB-ILB
 ```
 
+**FortiGate - Azure: GWLB**
+
+*Change MtU to :1570
+```
+https://fusecommunity.fortinet.com/blogs/daniel1/2021/10/19/deploy-fortigate-with-azure-gateway
+```
+
 **FortiGate - Azure: FG-AutoScale deployment template**
 ```
 https://github.com/fortinet/fortigate-autoscale-azure
