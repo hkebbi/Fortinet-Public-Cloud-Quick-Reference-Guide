@@ -282,7 +282,7 @@ https://github.com/ozanoguz/gcp-customroute_by_nwtag
 **FortiGate - GCP: FG A/P + GCP (ELB & ILB) in Single or Dual-AZ**
  
 ```
- https://github.com/40net-cloud/fortinet-gcp-solutions/tree/master/FortiGate/architectures/200-ha-active-passive-lb-sandwich
+https://github.com/40net-cloud/fortigate-gcp-ha-ap-lb-terraform
 ```
 
 **FortiGate A.P - GCP + VPC Peering + Projects: Complete Deployment Environment Template**
@@ -290,16 +290,10 @@ https://github.com/ozanoguz/gcp-customroute_by_nwtag
 https://github.com/bartekmo/fgt-tutorial-tmp/tree/master/deployment-manager
 ```
 
-**FortiWeb - GCP: PAYG**
+**FortiWeb - GCP: HA**
 ```
-https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-fortiweb-from-google-cloud-compute-engine/400683/obtaining-the-deployment-image
+https://github.com/fortinet/fortiweb-ha/releases/tag/1.0.14
 ```
-
-**FortiWeb - GCP: BYOL**
-```
-https://docs.fortinet.com/document/fortiweb-public-cloud/latest/deploying-fortiweb-from-google-cloud-marketplace/195813/initial-deployment
-```
-
 
 **FortiMail - GCP Manual Deployment Guide**
 
