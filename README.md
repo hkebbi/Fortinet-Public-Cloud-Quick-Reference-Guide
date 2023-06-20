@@ -282,7 +282,18 @@ https://github.com/ozanoguz/gcp-customroute_by_nwtag
 **FortiGate - GCP: FG A/P + GCP (ELB & ILB) in Single or Dual-AZ**
  
 ```
-https://github.com/40net-cloud/fortigate-gcp-ha-ap-lb-terraform
+https://github.com/40net-cloud/fortigate-gcp-ha-ap-lb-terraform/tree/main/examples
+
+PAYG (VPC + Subnet + FG A.P):
+https://github.com/40net-cloud/fortigate-gcp-ha-ap-lb-terraform/tree/main/examples/payg-new-subnets
+
+BYOL (FG A.P + Exisiting FG A.P):
+https://github.com/40net-cloud/fortigate-gcp-ha-ap-lb-terraform/tree/main/examples/byol-existing-subnets
+
+ARM-Based (PAYG):
+https://github.com/40net-cloud/fortigate-gcp-ha-ap-lb-terraform/tree/main/examples/arm-based-machine-type
+
+
 ```
 
 **FortiGate A.P - GCP + VPC Peering + Projects: Complete Deployment Environment Template**
