@@ -303,6 +303,8 @@ https://github.com/bartekmo/fgt-tutorial-tmp/tree/master/deployment-manager
 
 **FortiWeb - GCP: HA**
 ```
+https://github.com/fortinet/fortiweb-ha/tree/main/gcp/terraform
+
 https://github.com/fortinet/fortiweb-ha/releases/tag/1.0.14
 ```
 
