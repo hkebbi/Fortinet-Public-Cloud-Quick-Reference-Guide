@@ -14,7 +14,7 @@
 
 usage()
 {
-	echo "Usage $0 <imported_image_file> <s3_bucket_name>"
+	echo "Usage $0 <FortiNAC-AWS-v7.2.3-build0083.vhd> <fortinacbucket>"
 	echo ""
 	echo "Example ./import2awsimg.sh FimgDemo-AWS.vhd bucket"
 }
