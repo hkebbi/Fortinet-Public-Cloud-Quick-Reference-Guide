@@ -1,0 +1,10 @@
+[         
+  {
+    "Description": "Vm import",
+    "Format": "vhd",
+    "UserBucket": {
+        "S3Bucket": "hk-paris",
+        "S3Key": "FortiNAC-AWS-v7.2.3-build0083.vhd"
+    }
+  }
+]
