@@ -296,6 +296,14 @@ https://github.com/40net-cloud/fortigate-gcp-ha-ap-lb-terraform/tree/main/exampl
 
 ```
 
+
+**FortiGate - GCP: FG A/A + GCP (ELB & ILB) in Single or Dual-AZ**
+https://github.com/40net-cloud/fortinet-gcp-solutions/blob/master/FortiGate/architectures/200-lb-active-active/deployment-manager/config-aa.yaml
+ - Edit selflink (VPC) and slefliniwithid: (Subnet) for existing subnets in template.   You can get  it from the VPC Equivalent REST Response.
+
+
+
+
 **FortiGate A.P - GCP + VPC Peering + Projects: Complete Deployment Environment Template**
 ```
 https://github.com/bartekmo/fgt-tutorial-tmp/tree/master/deployment-manager
