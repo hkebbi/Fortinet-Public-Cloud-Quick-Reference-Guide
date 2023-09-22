@@ -44,6 +44,8 @@ https://github.com/fortinet/fortigate-autoscale-azure
 ***For configset files, enter assets/configset.
 ***For license files, enter assets/license-files/fortigate.
 
+  https://docs.fortinet.com/document/fortigate-public-cloud/7.4.0/azure-administration-guide/844072/uploading-files-to-the-storage-account
+
 **Fortinet - Azure Stack useful links**
 
 ```
