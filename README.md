@@ -38,6 +38,11 @@ https://fusecommunity.fortinet.com/blogs/daniel1/2021/10/19/deploy-fortigate-wit
 ```
 https://github.com/fortinet/fortigate-autoscale-azure
 ```
+* Troubelshooting: Function App --> Log stream.
+* Make sure to upload TWO folders:
+* Specify the folder to upload to in Upload to folder:
+***For configset files, enter assets/configset.
+***For license files, enter assets/license-files/fortigate.
 
 **Fortinet - Azure Stack useful links**
 
