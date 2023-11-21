@@ -278,22 +278,21 @@ A set of GCP most requested Templates for getting you started in Fortinet GCP de
  * Solutions Includes: FG, FML, FPX, FWB, FWBVaaS, FAZ & FMG
 ```
 
-Terraform: https://github.com/fortinet/fortigate-tutorial-gcp
+```
+Latest Existing FG A.P Terraform (Examples):
+https://github.com/fortinet/terraform-google-fgt-ha-ap-lb
+```
 
-
-**FortiGate-A.P + ELB/ILB: Existing VPC**
 ```
-https://github.com/fortinet/terraform-google-fgt-ha-ap-lb/tree/main
-```
-**FortiGate-A.A + ELB/ILB: Existing VPC**
-```
-https://github.com/40net-cloud/fortinet-gcp-solutions/blob/master/FortiGate/architectures/200-lb-active-active/deployment-manager/config-aa.yaml
- - Edit selflink (VPC) and slefliniwithid: (Subnet) for existing subnets in template.   You can get  it from the VPC Equivalent REST Response.
-```
-**FortiGate-A.A + ELB/ILB: New VPC**
-```
+Latest  New VPC FG A.A Terraform:
 https://github.com/fortidg/gcp-fgt-a_a
 ```
+
+```
+Latest  Existing FG A.A Terraform:
+https://github.com/fortidg/gcp-fgt-a_a_existing
+```
+
 
 **FortiWeb - GCP: HA**
 ```
@@ -305,10 +304,6 @@ https://github.com/fortinet/fortiweb-ha/releases/tag/1.0.14
 **Others: FortiGate HA - Egress Inspection /w custom-route using network-tag in GCP Per VM**
 ```
 https://github.com/ozanoguz/gcp-customroute_by_nwtag
-```
-**FortiGate A.P - GCP + VPC Peering + Projects: Complete Deployment Environment Template**
-```
-https://github.com/bartekmo/fgt-tutorial-tmp/tree/master/deployment-manager
 ```
 
 **FortiMail - GCP Manual Deployment Guide**
