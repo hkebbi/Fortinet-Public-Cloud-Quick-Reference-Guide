@@ -273,7 +273,7 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 
 ## Fortinet GCP References ##
 
-Reference Arch: https://cloud.google.com/architecture/partners/fortigate-architecture-in-cloud
+FortiGate architecture in Google Cloud: https://cloud.google.com/architecture/partners/fortigate-architecture-in-cloud
 ```
 A set of GCP most requested Templates for getting you started in Fortinet GCP deployments.
  * Solutions Includes: FG, FML, FPX, FWB, FWBVaaS, FAZ & FMG
