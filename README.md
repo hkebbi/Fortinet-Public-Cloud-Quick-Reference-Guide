@@ -257,7 +257,7 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 **FortiWeb - AWS: FortiWeb A/P & FortiWeb A/A + AWS (ELB or ILB) in Single or Dual-AZ**
 
 * Guide: https://docs.fortinet.com/document/fortiweb-public-cloud/latest/use-case-high-availability-for-fortiweb-on-aws/556435/overview
-* DEployment: https://github.com/fortinet/fortiweb-ha/tree/main/aws/cloudformation
+* Deployment: https://github.com/fortinet/fortiweb-ha/tree/main/aws/cloudformation
 
 **FortiSandbox - AWS: Advanced Deployment**:
 
