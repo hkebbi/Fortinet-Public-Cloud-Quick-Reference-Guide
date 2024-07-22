@@ -24,6 +24,7 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Acti
 **FortiGate - Azure: FG A/A + Azure (ELB & ILB) in Single or Dual-AZ**
 
 ```
+Active/Active with Load Balancer (External and/or Internal)
 https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Active-Active-ELB-ILB
 ```
 
