@@ -30,12 +30,14 @@ https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/Acti
 
 **FortiGate - Azure: GWLB**
 
-* Change MtU to:1570
+Azure Gateway Load Balancer (only support for ingress/egress)
+* MtU: 1570
 ```
-https://fusecommunity.fortinet.com/blogs/daniel1/2021/10/19/deploy-fortigate-with-azure-gateway
+https://github.com/40net-cloud/fortinet-azure-solutions/tree/main/FortiGate/AzureGatewayLoadBalancer
 ```
 
 **FortiGate - Azure: FG-AutoScale deployment template**
+
 ```
 https://github.com/fortinet/fortigate-autoscale-azure
 ```
@@ -206,7 +208,10 @@ https://github.com/hkebbi/fortinet-oci-solutions/tree/master/FortiGate/Dual_AD-D
 ** Note: Supports Private API call**
 ```
 **FortiGate - OCI: FG A/A  in Dual AD and Dual FD**
-
+Active/Active with DRGv2 + Load Balancer
+```
+https://github.com/40net-cloud/fortinet-oci-solutions/tree/main/FortiGate/Active-Active/Dual-AD/New-VCN
+```
 **FortiWeb - OCI: FortiWeb A/A + OCI (ELB or ILB) in Single or Dual-AZ**
 
 **FortiMail - OCI: HA**:
@@ -251,10 +256,39 @@ A set of AWS most requested Templates for getting you started in Fortinet AWS de
 **Note: Supports Private API call**
 ```
 
-**FortiGate - AWS: FG A/A + GWLB**
-* Deployment: https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/GWLB
-* Design: https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/GWLB/6.4
+**FortiGate - AWS: FG A/A Scenarios**
 
+Active/Active with routing
+```
+https://docs.fortinet.com/document/fortigate-public-cloud/7.2.0/aws-administration-guide/682830/deploying-and-configuring-fortigate-vm-active-active-ha
+```
+Active/Active with GWLB (+TGW)
+```
+https://github.com/fortinet/fortigate-terraform-deploy/tree/main/aws/7.4/gwlb-transit
+```
+Active/Active with Transit Gateway Connect
+```
+https://docs.fortinet.com/document/fortigate-public-cloud/7.4.0/aws-administration-guide/14501/sd-wan-transit-gateway-connect
+```
+FortiGate CNF
+```
+https://docs.fortinet.com/document/fortigate-cnf/latest/administration-guide
+```
+FortiGate Autoscaling using CFT and typescript
+```
+https://github.com/fortinet/fortigate-autoscale-aws
+```
+```
+https://docs.fortinet.com/document/fortigate-public-cloud/7.0.0/aws-administration-guide/397979/deploying-auto-scaling-on-aws
+```
+FortiGate Autoscaling using Terraform python scripts
+```
+https://github.com/fortinet/terraform-aws-cloud-modules
+```
+FortiGate Autoscaling using FortiManager Cloud Orchestration
+```
+https://docs.fortinet.com/document/fortimanager/7.4.2/administration-guide/549223/cloud-orchestration
+```
 **FortiWeb - AWS: FortiWeb A/P & FortiWeb A/A + AWS (ELB or ILB) in Single or Dual-AZ**
 
 * Guide: https://docs.fortinet.com/document/fortiweb-public-cloud/latest/use-case-high-availability-for-fortiweb-on-aws/556435/overview
@@ -295,7 +329,17 @@ Latest  Existing FG A.A Terraform:
 https://github.com/fortidg/gcp-fgt-a_a_existing
 ```
 
-
+Active/Active with routing
+```
+https://docs.fortinet.com/document/fortigate-public-cloud/6.4.0/gcp-administration-guide/365012/deploying-auto-scaling-on-gcp
+```
+FortiGate Autoscaling using templates and typescript
+```
+https://docs.fortinet.com/document/fortigate-public-cloud/6.4.0/gcp-administration-guide/365012/deploying-auto-scaling-on-gcp
+```
+```
+https://github.com/fortinet/fortigate-autoscale-gcp
+```
 **FortiWeb - GCP: HA**
 ```
 https://github.com/fortinet/fortiweb-ha/tree/main/gcp/terraform
