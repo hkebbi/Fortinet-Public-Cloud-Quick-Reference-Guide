@@ -1,7 +1,19 @@
 # Public Cloud Fortinet Deployment Guide Reference:
 
+## Azure References ##
+
+** Azure Flow Limit / LB Failover sessions / Encryption / Outbound GW **
+* 
+ ```
+ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-machine-network-throughput
+ https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-custom-probe-overview#probe-down-behavior
+ https://learn.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about#expressroute-using-a-service-provider-and-expressroute-direct
+ https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption#end-to-end-encryption-by-ipsec-faq
+ https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-design
+```
 ADC:
 https://docs.fortinet.com/product/fortiadc-public-cloud
+
 
 ## Fortinet Azure References ##
 
