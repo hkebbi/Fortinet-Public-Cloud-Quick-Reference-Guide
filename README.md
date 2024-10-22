@@ -11,9 +11,6 @@
  https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption#end-to-end-encryption-by-ipsec-faq
  https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-design
 ```
-ADC:
-https://docs.fortinet.com/product/fortiadc-public-cloud
-
 
 ## Fortinet Azure References ##
 
