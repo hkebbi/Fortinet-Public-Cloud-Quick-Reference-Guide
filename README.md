@@ -245,9 +245,10 @@ https://docs.fortinet.com/document/fortimail/7.0.0/fortimail-ha-on-oci-deploymen
 ```
 A set of AWS most requested Templates for getting you started in Fortinet AWS deployments.
 ```
-**AWS Maximum Interfaces & IP addresses per instance Shape**
+**AWS Maximum Interfaces & IP addresses (also Secondary) per instance Shape**
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html#AvailableIpPerENI
-
+* https://docs.aws.amazon.com/ec2/latest/instancetypes/co.html#co_network
+* https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AvailableIpPerENI.html
 
 **FortiGate - AWS: FG A/P MultiZone**
 * https://github.com/40net-cloud/fortinet-aws-solutions/tree/master/FortiGate/Active-Passive-Multi-Zone
