@@ -11,6 +11,10 @@
  https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption#end-to-end-encryption-by-ipsec-faq
  https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-design
 ```
+## New: FortiGate logs integration with Microsoft Sentinel through AMA ##
+ ```
+https://community.fortinet.com/t5/FortiGate/Technical-Tip-FortiGate-Integration-with-Microsoft-Sentinel-via/ta-p/324681
+ ```
 
 ## Fortinet Azure References ##
 
