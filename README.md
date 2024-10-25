@@ -2,7 +2,7 @@
 
 ## Azure References ##
 
-** Azure Flow Limit / LB Failover sessions / Encryption / Outbound GW **
+** Azure Flow Limit / LB Failover sessions / Encryption / Outbound GW / accelerated connection**
 * 
  ```
  https://learn.microsoft.com/en-us/azure/virtual-network/virtual-machine-network-throughput
@@ -10,6 +10,7 @@
  https://learn.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about#expressroute-using-a-service-provider-and-expressroute-direct
  https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption#end-to-end-encryption-by-ipsec-faq
  https://learn.microsoft.com/en-us/azure/nat-gateway/nat-gateway-design
+ https://learn.microsoft.com/en-us/azure/networking/nva-accelerated-connections
 ```
 ## New: FortiGate logs integration with Microsoft Sentinel through AMA ##
  ```
